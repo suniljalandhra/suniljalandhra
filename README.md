@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🌱 I’m currently learning solidity and go
+- - 📫 How to reach me:[SunilJalandhra](https://twitter.com/suniljalandhra9)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=suniljalandhra&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=suniljalandhra&langs_count=5&theme=tokyonight)]()
