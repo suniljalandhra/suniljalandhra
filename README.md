@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
  ### 🌱 I’m currently learning solidity and go
  ### 📫 How to reach me:[SunilJalandhra](https://twitter.com/suniljalandhra9)
+ ### 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/sunil-jalandhra-587834147/)
  ### 💬 Ask me about travel 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=suniljalandhra&count_private=true&theme=tokyonight&showicons=true)]()
