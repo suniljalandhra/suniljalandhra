@@ -1,3 +1,6 @@
+
+<a href="https://twitter.com/suniljalandhra9" target="_blank" rel="nofollow"><img align="right" alt="Sunil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/sunil-jalandhra-587834147/" target="_blank" rel="nofollow"><img align="right" alt="Sunil's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+
 ### Hi there 👋
 
 <!--
@@ -14,9 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ ### 🔭 I’m currently working on [Near-Cosmos Bridge](http://heliosapp.s3-website-ap-northeast-1.amazonaws.com)
  ### 🌱 I’m currently learning cosmosSDK, ZeroKnowledge and golang
- ### 📫 How to reach me:[SunilJalandhra](https://twitter.com/suniljalandhra9)
- ### 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/sunil-jalandhra-587834147/)
+ ### 📫 How to reach me:[Sunil Jalandhra](mailto:jalandhrasunil99@gmail.com?subject=[GitHub]%20Reaching%20out%20)
+<!--  ### 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/sunil-jalandhra-587834147/) -->
  ### 💬 Ask me about blockchain and Cosmos 
 
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=suniljalandhra&count_private=true&theme=tokyonight&showicons=true)]() -->
